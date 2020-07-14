@@ -330,3 +330,13 @@ footer a:hover{
 .pinterest{
    background-image: url('../img/pinterest.svg')
 }
+.newsletter{
+  font-size:12px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+.link-header{
+  font-size:12px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}

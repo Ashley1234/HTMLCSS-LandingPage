@@ -234,6 +234,7 @@ section{
 }
 .full-banner-sidebar{
   flex: 0 0 41.666667%;
+  text-transform: uppercase;
   background-color: #364147;
   padding: 30px;
   color:#ffffff;

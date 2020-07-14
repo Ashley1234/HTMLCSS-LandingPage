@@ -275,5 +275,6 @@ footer{
   z-index: 0;
   min-height: 330px;
   background-color: black;
+  flex-wrap: wrap;
   
 }
